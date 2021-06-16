@@ -1,0 +1,38 @@
+.text-slider {
+    position: absolute;
+    
+}
+.round {
+    border-radius: 30px;
+}
+.hero-text {
+    font-weight: 700;
+
+}
+.hero-main-text {
+    font-size: 130px;
+    font-weight: 5;
+    letter-spacing: 20px;
+}
+.btn-brand {
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+    padding-right: 35px;
+    padding-bottom: 10px;
+    padding-left: 35px;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    border: 1px solid black;
+    font-family: 'Poppins', sans-serif;
+}
+.btn-brand:hover{
+    background-color: rgb(233, 230, 230);
+    color: black;
+    border: 1px solid white;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    transition: all 0.1s;
+}
